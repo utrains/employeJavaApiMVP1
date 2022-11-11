@@ -1,2 +1,2 @@
-# employeJavaApiMVP1
-Spring Boot project for Employee's management 
+# employeapi
+Java API for User end Employee creation with Spring Boot
